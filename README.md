@@ -8,3 +8,6 @@ Packages:
 [xESMF](https://xesmf.readthedocs.io/en/latest/)
 
 Knowldege of pandas, xarray, and matplotlib will be helpful for understanding
+
+
+Pangeo thread covering an alternative to xESMF: https://discourse.pangeo.io/t/conservative-region-aggregation-with-xarray-geopandas-and-sparse/2715
