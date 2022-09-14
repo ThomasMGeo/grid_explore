@@ -7,7 +7,9 @@ Packages:
 
 [xESMF](https://xesmf.readthedocs.io/en/latest/)
 
-Knowldege of pandas, xarray, and matplotlib will be helpful for understanding
+[pyresample](https://pyresample.readthedocs.io/en/latest/)
+
+Knowldege of pandas, xarray, and matplotlib will be helpful for understanding most of these notebooks.
 
 
-Pangeo thread covering an alternative to xESMF: https://discourse.pangeo.io/t/conservative-region-aggregation-with-xarray-geopandas-and-sparse/2715
+Pangeo thread covering an (no package) alternative to xESMF: https://discourse.pangeo.io/t/conservative-region-aggregation-with-xarray-geopandas-and-sparse/2715
