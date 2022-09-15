@@ -13,3 +13,6 @@ Knowldege of pandas, xarray, and matplotlib will be helpful for understanding mo
 
 
 Pangeo thread covering an (no package) alternative to xESMF: https://discourse.pangeo.io/t/conservative-region-aggregation-with-xarray-geopandas-and-sparse/2715
+
+
+[Gio](https://github.com/agilescientific/gio) is a neat package for importing some subsurface formats into xarray datasets. 
